@@ -1,6 +1,6 @@
 def my_each(array)
-  i = array.size
-  while i > 0 
-    puts i
+  i = 0 
+  while i < array.size 
+  
   end
 end
